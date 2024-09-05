@@ -1,11 +1,14 @@
 // ==UserScript==
-// @name         Blur Filmweb Forum Div
+// @name         Filmweb without forum
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  Blur the forum div on Filmweb, remove blur on click
-// @author       Your Name
+// @version      1.0.0
+// @license MIT
+// @description  Blur the forum div on Filmweb, remove blur on click.
+// @author       suchencjusz
 // @match        https://www.filmweb.pl/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/suchencjusz/filmweb-without-forum/main/main.js
+// @downloadURL  https://raw.githubusercontent.com/suchencjusz/filmweb-without-forum/main/main.js
 // ==/UserScript==
 
 (function() {
